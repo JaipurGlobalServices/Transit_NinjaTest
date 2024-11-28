@@ -1,0 +1,345 @@
+2024-11-19 10:59:37,516 - DEBUG - Database connection established
+2024-11-19 10:59:37,516 - DEBUG - Fetched 10 rows from the database
+2024-11-19 10:59:37,516 - ERROR - Error in fetch_and_send_notifications: '%' must be followed by '%' or '(', found: "%123'  # Ensure correct password with escaped %"
+2024-11-19 10:59:37,516 - DEBUG - Database connection closed
+2024-11-19 10:59:53,490 - DEBUG - Database connection established
+2024-11-19 10:59:53,490 - DEBUG - Fetched 10 rows from the database
+2024-11-19 10:59:53,491 - ERROR - Error in fetch_and_send_notifications: '%' must be followed by '%' or '(', found: '%'
+2024-11-19 10:59:53,491 - DEBUG - Database connection closed
+2024-11-19 11:01:56,186 - DEBUG - Database connection established
+2024-11-19 11:01:56,187 - DEBUG - Fetched 10 rows from the database
+2024-11-19 11:01:56,187 - ERROR - Error in fetch_and_send_notifications: '%' must be followed by '%' or '(', found: '%'
+2024-11-19 11:01:56,187 - DEBUG - Database connection closed
+2024-11-19 11:04:35,312 - DEBUG - Database connection established
+2024-11-19 11:04:35,313 - DEBUG - Fetched 10 rows from the database
+2024-11-19 11:04:35,313 - ERROR - Error in fetch_and_send_notifications: '%' must be followed by '%' or '(', found: '%123" # Ensure correct password with escaped %'
+2024-11-19 11:04:35,314 - DEBUG - Database connection closed
+2024-11-19 11:06:28,967 - DEBUG - Database connection established
+2024-11-19 11:06:28,967 - DEBUG - Fetched 10 rows from the database
+2024-11-19 11:06:38,403 - ERROR - Failed to send email: (535, b'Incorrect authentication data')
+2024-11-19 11:06:38,403 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 11:06:38,619 - ERROR - Failed to send email: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1000)
+2024-11-19 11:06:38,619 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 11:06:38,853 - ERROR - Failed to send email: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1000)
+2024-11-19 11:06:38,853 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 11:06:39,070 - ERROR - Failed to send email: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1000)
+2024-11-19 11:06:39,070 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 11:06:39,305 - ERROR - Failed to send email: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1000)
+2024-11-19 11:06:39,305 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 11:06:39,538 - ERROR - Failed to send email: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1000)
+2024-11-19 11:06:39,538 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 11:06:39,771 - ERROR - Failed to send email: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1000)
+2024-11-19 11:06:39,771 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 11:06:39,972 - ERROR - Failed to send email: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1000)
+2024-11-19 11:06:39,972 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 11:06:40,204 - ERROR - Failed to send email: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1000)
+2024-11-19 11:06:40,204 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 11:06:48,752 - ERROR - Failed to send email: (535, b'Incorrect authentication data')
+2024-11-19 11:06:48,752 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 11:06:48,752 - DEBUG - Database connection closed
+2024-11-19 14:27:50,742 - DEBUG - Database connection established
+2024-11-19 14:27:50,745 - DEBUG - Fetched 20 rows from the database
+2024-11-19 14:30:35,987 - ERROR - Failed to send email: Connection unexpectedly closed
+2024-11-19 14:30:35,987 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 14:33:21,201 - ERROR - Failed to send email: Connection unexpectedly closed
+2024-11-19 14:33:21,202 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 14:36:06,471 - DEBUG - Database connection established
+2024-11-19 14:36:06,472 - DEBUG - Fetched 20 rows from the database
+2024-11-19 14:36:16,317 - ERROR - Failed to send email: (535, b'Incorrect authentication data')
+2024-11-19 14:36:16,318 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 14:36:28,070 - ERROR - Failed to send email: (535, b'Incorrect authentication data')
+2024-11-19 14:36:28,071 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 14:36:32,069 - ERROR - Failed to send email: (535, b'Incorrect authentication data')
+2024-11-19 14:36:32,069 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 14:36:36,102 - ERROR - Failed to send email: (535, b'Incorrect authentication data')
+2024-11-19 14:36:36,104 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 14:36:40,190 - ERROR - Failed to send email: (535, b'Incorrect authentication data')
+2024-11-19 14:36:40,190 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 14:36:44,200 - ERROR - Failed to send email: (535, b'Incorrect authentication data')
+2024-11-19 14:36:44,200 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 14:36:48,202 - ERROR - Failed to send email: (535, b'Incorrect authentication data')
+2024-11-19 14:36:48,202 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 14:37:09,426 - ERROR - Failed to send email: Connection unexpectedly closed
+2024-11-19 14:37:09,426 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 14:37:30,497 - ERROR - Failed to send email: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-19 14:37:30,497 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 14:37:51,572 - ERROR - Failed to send email: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-19 14:37:51,572 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 14:38:12,646 - ERROR - Failed to send email: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-19 14:38:12,648 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 14:38:33,706 - ERROR - Failed to send email: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-19 14:38:33,706 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 14:38:54,777 - ERROR - Failed to send email: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-19 14:38:54,778 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 14:39:15,841 - ERROR - Failed to send email: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-19 14:39:15,841 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 14:39:36,905 - ERROR - Failed to send email: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-19 14:39:36,905 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 14:39:57,952 - ERROR - Failed to send email: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-19 14:39:57,953 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 14:40:19,005 - ERROR - Failed to send email: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-19 14:40:19,005 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 14:40:40,087 - ERROR - Failed to send email: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-19 14:40:40,089 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 14:41:01,178 - ERROR - Failed to send email: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-19 14:41:01,178 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 14:41:22,229 - ERROR - Failed to send email: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-19 14:41:22,229 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 14:41:22,229 - DEBUG - Database connection closed
+2024-11-19 14:50:10,008 - ERROR - Authentication error: (535, b'Incorrect authentication data'). Attempt 1 of 3
+2024-11-19 14:50:23,086 - ERROR - Authentication error: (535, b'Incorrect authentication data'). Attempt 2 of 3
+2024-11-19 14:50:32,070 - ERROR - Authentication error: (535, b'Incorrect authentication data'). Attempt 3 of 3
+2024-11-19 14:50:37,084 - ERROR - Failed to send email after 3 attempts to arun.sankhla@jgservices.in
+2024-11-19 14:51:35,263 - ERROR - Authentication error: (535, b'Incorrect authentication data'). Attempt 1 of 3
+2024-11-19 14:51:48,346 - ERROR - Authentication error: (535, b'Incorrect authentication data'). Attempt 2 of 3
+2024-11-19 14:51:57,373 - ERROR - Authentication error: (535, b'Incorrect authentication data'). Attempt 3 of 3
+2024-11-19 14:52:02,387 - ERROR - Failed to send email after 3 attempts to arun.sankhla@jgservices.in
+2024-11-19 14:53:21,083 - ERROR - Failed to send email: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1000). Attempt 1 of 3
+2024-11-19 14:53:26,276 - ERROR - Failed to send email: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1000). Attempt 2 of 3
+2024-11-19 14:53:31,458 - ERROR - Failed to send email: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1000). Attempt 3 of 3
+2024-11-19 14:53:36,467 - ERROR - Failed to send email after 3 attempts to arun.sankhla@jgservices.in
+2024-11-19 14:57:00,990 - ERROR - Failed to send email: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1000). Attempt 1 of 3
+2024-11-19 14:57:06,214 - ERROR - Failed to send email: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1000). Attempt 2 of 3
+2024-11-19 14:57:11,409 - ERROR - Failed to send email: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1000). Attempt 3 of 3
+2024-11-19 14:57:16,411 - ERROR - Failed to send email after 3 attempts to arun.sankhla@jgservices.in
+2024-11-19 15:42:53,117 - ERROR - Failed to send email: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1000). Attempt 1 of 3
+2024-11-19 15:42:58,502 - ERROR - Failed to send email: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1000). Attempt 2 of 3
+2024-11-19 15:43:03,844 - ERROR - Failed to send email: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1000). Attempt 3 of 3
+2024-11-19 15:43:08,849 - ERROR - Failed to send email after 3 attempts to arun.sankhla@jgservices.in
+2024-11-19 16:19:27,918 - ERROR - Authentication error: (535, b'Incorrect authentication data'). Attempt 1 of 3
+2024-11-19 16:19:41,316 - ERROR - Authentication error: (535, b'Incorrect authentication data'). Attempt 2 of 3
+2024-11-19 16:19:50,943 - ERROR - Authentication error: (535, b'Incorrect authentication data'). Attempt 3 of 3
+2024-11-19 16:19:55,944 - ERROR - Failed to send email after 3 attempts to arun.sankhla@jgservices.in
+2024-11-19 17:11:41,278 - DEBUG - Database connection established
+2024-11-19 17:11:41,289 - DEBUG - Fetched 7 unique email rows from the database
+2024-11-19 17:11:51,003 - ERROR - Attempt 1 - Failed to send email to arun.sankhla@jgservices.in: (535, b'Incorrect authentication data')
+2024-11-19 17:12:00,923 - ERROR - Attempt 2 - Failed to send email to arun.sankhla@jgservices.in: (535, b'Incorrect authentication data')
+2024-11-19 17:12:07,003 - ERROR - Attempt 3 - Failed to send email to arun.sankhla@jgservices.in: (535, b'Incorrect authentication data')
+2024-11-19 17:12:07,003 - ERROR - Failed to send email after 3 attempts to arun.sankhla@jgservices.in
+2024-11-19 17:12:09,010 - ERROR - Failed to send email to arun.sankhla@jgservices.in
+2024-11-19 17:12:13,095 - ERROR - Attempt 1 - Failed to send email to arun.sankhla@jgservices.in: (535, b'Incorrect authentication data')
+2024-11-19 17:12:19,299 - ERROR - Attempt 2 - Failed to send email to arun.sankhla@jgservices.in: (535, b'Incorrect authentication data')
+2024-11-19 17:12:25,379 - ERROR - Attempt 3 - Failed to send email to arun.sankhla@jgservices.in: (535, b'Incorrect authentication data')
+2024-11-19 17:12:25,379 - ERROR - Failed to send email after 3 attempts to arun.sankhla@jgservices.in
+2024-11-19 17:12:27,390 - ERROR - Failed to send email to arun.sankhla@jgservices.in
+2024-11-19 17:12:32,348 - ERROR - Attempt 1 - Failed to send email to arun.sankhla@jgservices.in: (535, b'Incorrect authentication data')
+2024-11-19 17:12:55,427 - ERROR - Attempt 2 - Failed to send email to arun.sankhla@jgservices.in: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-19 17:13:18,495 - ERROR - Attempt 3 - Failed to send email to arun.sankhla@jgservices.in: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-19 17:13:18,495 - ERROR - Failed to send email after 3 attempts to arun.sankhla@jgservices.in
+2024-11-19 17:13:20,497 - ERROR - Failed to send email to arun.sankhla@jgservices.in
+2024-11-19 17:13:41,649 - ERROR - Attempt 1 - Failed to send email to arun.sankhla@jgservices.in: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-19 17:14:04,757 - ERROR - Attempt 2 - Failed to send email to arun.sankhla@jgservices.in: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-19 17:14:27,873 - ERROR - Attempt 3 - Failed to send email to arun.sankhla@jgservices.in: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-19 17:14:27,874 - ERROR - Failed to send email after 3 attempts to arun.sankhla@jgservices.in
+2024-11-19 17:14:29,875 - ERROR - Failed to send email to arun.sankhla@jgservices.in
+2024-11-19 17:14:50,940 - ERROR - Attempt 1 - Failed to send email to arun.sankhla@jgservices.in: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-19 17:15:14,065 - ERROR - Attempt 2 - Failed to send email to arun.sankhla@jgservices.in: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-19 17:15:34,027 - DEBUG - Database connection established
+2024-11-19 17:15:34,029 - DEBUG - Fetched 10 rows from the database
+2024-11-19 17:15:55,096 - ERROR - Attempt 1 - Failed to send email to arun.sankhla@jgservices.in: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-19 17:16:18,273 - ERROR - Attempt 2 - Failed to send email to arun.sankhla@jgservices.in: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-19 17:16:41,370 - ERROR - Attempt 3 - Failed to send email to arun.sankhla@jgservices.in: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-19 17:16:41,370 - ERROR - Failed to send email after 3 attempts to arun.sankhla@jgservices.in
+2024-11-19 17:16:43,372 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 17:17:04,472 - ERROR - Attempt 1 - Failed to send email to arun.sankhla@jgservices.in: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-19 17:17:27,560 - ERROR - Attempt 2 - Failed to send email to arun.sankhla@jgservices.in: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-19 17:23:56,987 - DEBUG - Database connection established
+2024-11-19 17:23:56,987 - DEBUG - Fetched 10 rows from the database
+2024-11-19 17:23:57,207 - ERROR - Attempt 1 - Failed to send email to arun.sankhla@jgservices.in: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1000)
+2024-11-19 17:23:59,404 - ERROR - Attempt 2 - Failed to send email to arun.sankhla@jgservices.in: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1000)
+2024-11-19 17:24:01,705 - ERROR - Attempt 3 - Failed to send email to arun.sankhla@jgservices.in: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1000)
+2024-11-19 17:24:01,705 - ERROR - Failed to send email after 3 attempts to arun.sankhla@jgservices.in
+2024-11-19 17:24:03,720 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 17:24:03,938 - ERROR - Attempt 1 - Failed to send email to arun.sankhla@jgservices.in: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1000)
+2024-11-19 17:24:06,205 - ERROR - Attempt 2 - Failed to send email to arun.sankhla@jgservices.in: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1000)
+2024-11-19 17:24:08,419 - ERROR - Attempt 3 - Failed to send email to arun.sankhla@jgservices.in: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1000)
+2024-11-19 17:24:08,419 - ERROR - Failed to send email after 3 attempts to arun.sankhla@jgservices.in
+2024-11-19 17:24:10,427 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 17:24:10,649 - ERROR - Attempt 1 - Failed to send email to arun.sankhla@jgservices.in: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1000)
+2024-11-19 17:24:12,865 - ERROR - Attempt 2 - Failed to send email to arun.sankhla@jgservices.in: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1000)
+2024-11-19 17:24:15,101 - ERROR - Attempt 3 - Failed to send email to arun.sankhla@jgservices.in: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1000)
+2024-11-19 17:24:15,101 - ERROR - Failed to send email after 3 attempts to arun.sankhla@jgservices.in
+2024-11-19 17:24:17,111 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 17:24:17,309 - ERROR - Attempt 1 - Failed to send email to arun.sankhla@jgservices.in: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1000)
+2024-11-19 17:24:19,542 - ERROR - Attempt 2 - Failed to send email to arun.sankhla@jgservices.in: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1000)
+2024-11-19 17:24:21,752 - ERROR - Attempt 3 - Failed to send email to arun.sankhla@jgservices.in: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1000)
+2024-11-19 17:24:21,752 - ERROR - Failed to send email after 3 attempts to arun.sankhla@jgservices.in
+2024-11-19 17:24:23,756 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 17:24:23,951 - ERROR - Attempt 1 - Failed to send email to arun.sankhla@jgservices.in: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1000)
+2024-11-19 17:24:26,162 - ERROR - Attempt 2 - Failed to send email to arun.sankhla@jgservices.in: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1000)
+2024-11-19 17:24:28,409 - ERROR - Attempt 3 - Failed to send email to arun.sankhla@jgservices.in: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1000)
+2024-11-19 17:24:28,409 - ERROR - Failed to send email after 3 attempts to arun.sankhla@jgservices.in
+2024-11-19 17:24:30,410 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 17:24:30,598 - ERROR - Attempt 1 - Failed to send email to arun.sankhla@jgservices.in: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1000)
+2024-11-19 17:24:32,791 - ERROR - Attempt 2 - Failed to send email to arun.sankhla@jgservices.in: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1000)
+2024-11-19 17:24:35,020 - ERROR - Attempt 3 - Failed to send email to arun.sankhla@jgservices.in: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1000)
+2024-11-19 17:24:35,020 - ERROR - Failed to send email after 3 attempts to arun.sankhla@jgservices.in
+2024-11-19 17:24:37,022 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 17:24:37,211 - ERROR - Attempt 1 - Failed to send email to arun.sankhla@jgservices.in: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1000)
+2024-11-19 17:24:39,414 - ERROR - Attempt 2 - Failed to send email to arun.sankhla@jgservices.in: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1000)
+2024-11-19 17:24:41,636 - ERROR - Attempt 3 - Failed to send email to arun.sankhla@jgservices.in: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1000)
+2024-11-19 17:24:41,636 - ERROR - Failed to send email after 3 attempts to arun.sankhla@jgservices.in
+2024-11-19 17:24:43,639 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 17:24:43,834 - ERROR - Attempt 1 - Failed to send email to arun.sankhla@jgservices.in: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1000)
+2024-11-19 17:24:46,055 - ERROR - Attempt 2 - Failed to send email to arun.sankhla@jgservices.in: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1000)
+2024-11-19 17:24:48,298 - ERROR - Attempt 3 - Failed to send email to arun.sankhla@jgservices.in: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1000)
+2024-11-19 17:24:48,298 - ERROR - Failed to send email after 3 attempts to arun.sankhla@jgservices.in
+2024-11-19 17:24:50,301 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 17:24:50,515 - ERROR - Attempt 1 - Failed to send email to arun.sankhla@jgservices.in: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1000)
+2024-11-19 17:24:52,740 - ERROR - Attempt 2 - Failed to send email to arun.sankhla@jgservices.in: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1000)
+2024-11-19 17:24:54,964 - ERROR - Attempt 3 - Failed to send email to arun.sankhla@jgservices.in: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1000)
+2024-11-19 17:24:54,964 - ERROR - Failed to send email after 3 attempts to arun.sankhla@jgservices.in
+2024-11-19 17:24:56,973 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 17:24:57,176 - ERROR - Attempt 1 - Failed to send email to arun.sankhla@jgservices.in: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1000)
+2024-11-19 17:24:59,361 - ERROR - Attempt 2 - Failed to send email to arun.sankhla@jgservices.in: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1000)
+2024-11-19 17:25:01,600 - ERROR - Attempt 3 - Failed to send email to arun.sankhla@jgservices.in: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1000)
+2024-11-19 17:25:01,600 - ERROR - Failed to send email after 3 attempts to arun.sankhla@jgservices.in
+2024-11-19 17:25:03,602 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 17:25:03,602 - DEBUG - Database connection closed
+2024-11-19 17:25:51,013 - DEBUG - Database connection established
+2024-11-19 17:25:51,013 - DEBUG - Fetched 10 rows from the database
+2024-11-19 17:25:51,214 - ERROR - Attempt 1 - Connection failed for arun.sankhla@jgservices.in: (421, b'Too many concurrent SMTP connections from this IP address; please try again later.')
+2024-11-19 17:25:53,466 - ERROR - Attempt 2 - Connection failed for arun.sankhla@jgservices.in: (421, b'Too many concurrent SMTP connections from this IP address; please try again later.')
+2024-11-19 17:25:55,676 - ERROR - Attempt 3 - Connection failed for arun.sankhla@jgservices.in: (421, b'Too many concurrent SMTP connections from this IP address; please try again later.')
+2024-11-19 17:25:55,676 - ERROR - Failed to connect and send email after 3 attempts to arun.sankhla@jgservices.in
+2024-11-19 17:25:57,678 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 17:25:57,876 - ERROR - Attempt 1 - Connection failed for arun.sankhla@jgservices.in: (421, b'Too many concurrent SMTP connections from this IP address; please try again later.')
+2024-11-19 17:26:00,080 - ERROR - Attempt 2 - Connection failed for arun.sankhla@jgservices.in: (421, b'Too many concurrent SMTP connections from this IP address; please try again later.')
+2024-11-19 17:26:02,374 - ERROR - Attempt 3 - Connection failed for arun.sankhla@jgservices.in: (421, b'Too many concurrent SMTP connections from this IP address; please try again later.')
+2024-11-19 17:26:02,374 - ERROR - Failed to connect and send email after 3 attempts to arun.sankhla@jgservices.in
+2024-11-19 17:26:04,375 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 17:26:04,581 - ERROR - Attempt 1 - Connection failed for arun.sankhla@jgservices.in: (421, b'Too many concurrent SMTP connections from this IP address; please try again later.')
+2024-11-19 17:26:06,808 - ERROR - Attempt 2 - Connection failed for arun.sankhla@jgservices.in: (421, b'Too many concurrent SMTP connections from this IP address; please try again later.')
+2024-11-19 17:26:09,040 - ERROR - Attempt 3 - Connection failed for arun.sankhla@jgservices.in: (421, b'Too many concurrent SMTP connections from this IP address; please try again later.')
+2024-11-19 17:26:09,040 - ERROR - Failed to connect and send email after 3 attempts to arun.sankhla@jgservices.in
+2024-11-19 17:26:11,042 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 17:26:11,255 - ERROR - Attempt 1 - Connection failed for arun.sankhla@jgservices.in: (421, b'Too many concurrent SMTP connections from this IP address; please try again later.')
+2024-11-19 17:26:13,457 - ERROR - Attempt 2 - Connection failed for arun.sankhla@jgservices.in: (421, b'Too many concurrent SMTP connections from this IP address; please try again later.')
+2024-11-19 17:26:16,293 - DEBUG - Attempting to log in with notification@jgservices.in
+2024-11-19 17:26:25,222 - ERROR - Attempt 3 - Authentication failed for arun.sankhla@jgservices.in: (535, b'Incorrect authentication data')
+2024-11-19 17:26:25,222 - ERROR - Failed to authenticate and send email after 3 attempts to arun.sankhla@jgservices.in
+2024-11-19 17:26:27,227 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 17:26:27,771 - DEBUG - Attempting to log in with notification@jgservices.in
+2024-11-19 17:26:36,070 - ERROR - Attempt 1 - Authentication failed for arun.sankhla@jgservices.in: (535, b'Incorrect authentication data')
+2024-11-19 17:26:38,560 - DEBUG - Attempting to log in with notification@jgservices.in
+2024-11-19 17:26:43,028 - ERROR - Attempt 2 - Authentication failed for arun.sankhla@jgservices.in: (535, b'Incorrect authentication data')
+2024-11-19 17:26:45,671 - DEBUG - Attempting to log in with notification@jgservices.in
+2024-11-19 17:26:50,025 - ERROR - Attempt 3 - Authentication failed for arun.sankhla@jgservices.in: (535, b'Incorrect authentication data')
+2024-11-19 17:26:50,025 - ERROR - Failed to authenticate and send email after 3 attempts to arun.sankhla@jgservices.in
+2024-11-19 17:26:52,038 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 17:26:52,762 - DEBUG - Attempting to log in with notification@jgservices.in
+2024-11-19 17:26:57,141 - ERROR - Attempt 1 - Authentication failed for arun.sankhla@jgservices.in: (535, b'Incorrect authentication data')
+2024-11-19 17:26:59,663 - DEBUG - Attempting to log in with notification@jgservices.in
+2024-11-19 17:27:04,054 - ERROR - Attempt 2 - Authentication failed for arun.sankhla@jgservices.in: (535, b'Incorrect authentication data')
+2024-11-19 17:27:06,532 - DEBUG - Attempting to log in with notification@jgservices.in
+2024-11-19 17:27:11,089 - ERROR - Attempt 3 - Authentication failed for arun.sankhla@jgservices.in: (535, b'Incorrect authentication data')
+2024-11-19 17:27:11,089 - ERROR - Failed to authenticate and send email after 3 attempts to arun.sankhla@jgservices.in
+2024-11-19 17:27:13,102 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 17:27:34,185 - ERROR - Attempt 1 - Failed to send email to arun.sankhla@jgservices.in: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-19 17:27:57,313 - ERROR - Attempt 2 - Failed to send email to arun.sankhla@jgservices.in: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-19 17:28:20,384 - ERROR - Attempt 3 - Failed to send email to arun.sankhla@jgservices.in: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-19 17:28:20,384 - ERROR - Failed to send email after 3 attempts to arun.sankhla@jgservices.in
+2024-11-19 17:28:22,385 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 17:28:43,485 - ERROR - Attempt 1 - Failed to send email to arun.sankhla@jgservices.in: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-19 17:29:06,634 - ERROR - Attempt 2 - Failed to send email to arun.sankhla@jgservices.in: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-19 17:29:29,710 - ERROR - Attempt 3 - Failed to send email to arun.sankhla@jgservices.in: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-19 17:29:29,710 - ERROR - Failed to send email after 3 attempts to arun.sankhla@jgservices.in
+2024-11-19 17:29:31,711 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 17:29:52,760 - ERROR - Attempt 1 - Failed to send email to arun.sankhla@jgservices.in: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-19 17:30:15,905 - ERROR - Attempt 2 - Failed to send email to arun.sankhla@jgservices.in: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-19 17:30:17,906 - DEBUG - Database connection closed
+2024-11-19 17:32:30,874 - DEBUG - Database connection established
+2024-11-19 17:32:30,875 - DEBUG - Fetched 10 rows from the database
+2024-11-19 17:32:51,952 - ERROR - Attempt 1 - Failed to send email to arun.sankhla@jgservices.in: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-19 17:33:15,035 - ERROR - Attempt 2 - Failed to send email to arun.sankhla@jgservices.in: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-19 17:33:38,117 - ERROR - Attempt 3 - Failed to send email to arun.sankhla@jgservices.in: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-19 17:33:38,117 - ERROR - Failed to send email after 3 attempts to arun.sankhla@jgservices.in
+2024-11-19 17:33:40,119 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 17:34:01,193 - ERROR - Attempt 1 - Failed to send email to arun.sankhla@jgservices.in: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-19 17:34:24,305 - ERROR - Attempt 2 - Failed to send email to arun.sankhla@jgservices.in: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-19 17:34:47,411 - ERROR - Attempt 3 - Failed to send email to arun.sankhla@jgservices.in: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-19 17:34:47,412 - ERROR - Failed to send email after 3 attempts to arun.sankhla@jgservices.in
+2024-11-19 17:34:49,413 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 17:35:10,509 - ERROR - Attempt 1 - Failed to send email to arun.sankhla@jgservices.in: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-19 17:35:33,621 - ERROR - Attempt 2 - Failed to send email to arun.sankhla@jgservices.in: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-19 17:35:56,769 - ERROR - Attempt 3 - Failed to send email to arun.sankhla@jgservices.in: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-19 17:35:56,769 - ERROR - Failed to send email after 3 attempts to arun.sankhla@jgservices.in
+2024-11-19 17:35:58,773 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 17:36:19,926 - ERROR - Attempt 1 - Failed to send email to arun.sankhla@jgservices.in: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-19 17:36:43,015 - ERROR - Attempt 2 - Failed to send email to arun.sankhla@jgservices.in: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-19 17:37:06,111 - ERROR - Attempt 3 - Failed to send email to arun.sankhla@jgservices.in: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-19 17:37:06,112 - ERROR - Failed to send email after 3 attempts to arun.sankhla@jgservices.in
+2024-11-19 17:37:08,114 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 17:37:15,693 - DEBUG - Attempting to log in with notification@jgservices.in
+2024-11-19 17:37:25,273 - ERROR - Attempt 1 - Authentication failed for arun.sankhla@jgservices.in: (535, b'Incorrect authentication data')
+2024-11-19 17:37:27,785 - DEBUG - Attempting to log in with notification@jgservices.in
+2024-11-19 17:37:35,936 - ERROR - Attempt 2 - Authentication failed for arun.sankhla@jgservices.in: (535, b'Incorrect authentication data')
+2024-11-19 17:37:38,464 - DEBUG - Attempting to log in with notification@jgservices.in
+2024-11-19 17:37:42,903 - ERROR - Attempt 3 - Authentication failed for arun.sankhla@jgservices.in: (535, b'Incorrect authentication data')
+2024-11-19 17:37:42,903 - ERROR - Failed to authenticate and send email after 3 attempts to arun.sankhla@jgservices.in
+2024-11-19 17:37:44,910 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 17:37:45,401 - DEBUG - Attempting to log in with notification@jgservices.in
+2024-11-19 17:37:48,950 - ERROR - Attempt 1 - Authentication failed for arun.sankhla@jgservices.in: (535, b'Incorrect authentication data')
+2024-11-19 17:37:51,434 - DEBUG - Attempting to log in with notification@jgservices.in
+2024-11-19 17:37:55,912 - ERROR - Attempt 2 - Authentication failed for arun.sankhla@jgservices.in: (535, b'Incorrect authentication data')
+2024-11-19 17:37:58,412 - DEBUG - Attempting to log in with notification@jgservices.in
+2024-11-19 17:38:03,032 - ERROR - Attempt 3 - Authentication failed for arun.sankhla@jgservices.in: (535, b'Incorrect authentication data')
+2024-11-19 17:38:03,048 - ERROR - Failed to authenticate and send email after 3 attempts to arun.sankhla@jgservices.in
+2024-11-19 17:38:05,049 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 17:38:05,550 - DEBUG - Attempting to log in with notification@jgservices.in
+2024-11-19 17:38:10,007 - ERROR - Attempt 1 - Authentication failed for arun.sankhla@jgservices.in: (535, b'Incorrect authentication data')
+2024-11-19 17:38:33,105 - ERROR - Attempt 2 - Failed to send email to arun.sankhla@jgservices.in: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-19 17:38:56,199 - ERROR - Attempt 3 - Failed to send email to arun.sankhla@jgservices.in: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-19 17:38:56,199 - ERROR - Failed to send email after 3 attempts to arun.sankhla@jgservices.in
+2024-11-19 17:38:58,201 - DEBUG - Sent email to: arun.sankhla@jgservices.in
+2024-11-19 17:39:19,321 - ERROR - Attempt 1 - Failed to send email to arun.sankhla@jgservices.in: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-19 17:39:42,445 - ERROR - Attempt 2 - Failed to send email to arun.sankhla@jgservices.in: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-11-19 17:40:05,537 - DEBUG - Database connection closed
+2024-11-19 17:51:02,945 - ERROR - An unexpected error occurred while sending email to example@domain.com: [Errno 11001] getaddrinfo failed
+2024-11-19 18:05:40,375 - ERROR - Failed to send email to arun.sankhla@jgservices.in: Connection unexpectedly closed
+2024-11-19 18:08:25,533 - ERROR - Failed to send email to arun.sankhla@jgservices.in: Connection unexpectedly closed
+2024-11-19 18:11:10,783 - ERROR - Failed to send email to arun.sankhla@jgservices.in: Connection unexpectedly closed
+2024-11-19 18:13:55,972 - ERROR - Failed to send email to arun.sankhla@jgservices.in: Connection unexpectedly closed
+2024-11-19 18:14:22,571 - DEBUG - Connecting to the SMTP server using SSL...
+2024-11-19 18:14:32,011 - ERROR - Failed to send email to arun.sankhla@jgservices.in: (535, b'Incorrect authentication data')
+2024-11-19 18:14:32,115 - DEBUG - Connecting to the SMTP server using SSL...
+2024-11-19 18:14:43,837 - ERROR - Failed to send email to arun.sankhla@jgservices.in: (535, b'Incorrect authentication data')
+2024-11-19 18:14:43,921 - DEBUG - Connecting to the SMTP server using SSL...
+2024-11-19 18:14:47,904 - ERROR - Failed to send email to arun.sankhla@jgservices.in: (535, b'Incorrect authentication data')
+2024-11-19 18:14:47,982 - DEBUG - Connecting to the SMTP server using SSL...
+2024-11-19 18:14:51,989 - ERROR - Failed to send email to arun.sankhla@jgservices.in: (535, b'Incorrect authentication data')
+2024-11-19 18:14:52,083 - DEBUG - Connecting to the SMTP server using SSL...
+2024-11-19 18:14:56,152 - ERROR - Failed to send email to arun.sankhla@jgservices.in: (535, b'Incorrect authentication data')
+2024-11-19 18:14:56,233 - DEBUG - Connecting to the SMTP server using SSL...
+2024-11-19 18:15:00,200 - ERROR - Failed to send email to arun.sankhla@jgservices.in: (535, b'Incorrect authentication data')
+2024-11-19 18:15:00,277 - DEBUG - Connecting to the SMTP server using SSL...
+2024-11-19 18:15:04,871 - ERROR - Failed to send email to arun.sankhla@jgservices.in: (535, b'Incorrect authentication data')
+2024-11-19 18:15:04,946 - DEBUG - Connecting to the SMTP server using SSL...
+2024-11-19 18:15:16,875 - ERROR - Failed to send email to arun.sankhla@jgservices.in: Connection unexpectedly closed: The read operation timed out
+2024-11-19 18:15:16,876 - ERROR - An unexpected error occurred: please run connect() first
+2024-11-19 18:16:09,546 - DEBUG - Connecting to the SMTP server using SSL...
+2024-11-19 18:16:19,595 - ERROR - An unexpected error occurred: timed out
+2024-11-19 18:23:33,179 - ERROR - An unexpected error occurred: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-211d0f45201sm74168145ad.172 - gsmtp')
+2024-11-19 18:30:30,874 - DEBUG - Database connection established
+2024-11-19 18:30:30,876 - DEBUG - Fetched 10 rows from the database
+2024-11-19 18:30:32,234 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-211d0f34698sm73527575ad.133 - gsmtp')
+2024-11-19 18:30:32,234 - DEBUG - Email sent to: arun.sankhla@jgservices.in
+2024-11-19 18:30:34,369 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-7f8c1c16d0esm7621423a12.6 - gsmtp')
+2024-11-19 18:30:34,369 - DEBUG - Email sent to: arun.sankhla@jgservices.in
+2024-11-19 18:30:35,775 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-21210fe87f8sm42803565ad.29 - gsmtp')
+2024-11-19 18:30:35,775 - DEBUG - Email sent to: arun.sankhla@jgservices.in
+2024-11-19 18:30:37,485 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-2ea06f4de6fsm9272391a91.26 - gsmtp')
+2024-11-19 18:30:37,485 - DEBUG - Email sent to: arun.sankhla@jgservices.in
+2024-11-19 18:30:38,973 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-2ea5dafa45esm4563334a91.51 - gsmtp')
+2024-11-19 18:30:38,973 - DEBUG - Email sent to: arun.sankhla@jgservices.in
+2024-11-19 18:30:40,386 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-211d0ec8351sm74185865ad.89 - gsmtp')
+2024-11-19 18:30:40,386 - DEBUG - Email sent to: arun.sankhla@jgservices.in
+2024-11-19 18:30:41,969 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-211d0ec90f9sm74554925ad.99 - gsmtp')
+2024-11-19 18:30:41,969 - DEBUG - Email sent to: arun.sankhla@jgservices.in
+2024-11-19 18:30:43,479 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-211d0ec81d8sm74299815ad.86 - gsmtp')
+2024-11-19 18:30:43,479 - DEBUG - Email sent to: arun.sankhla@jgservices.in
+2024-11-19 18:30:44,871 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-2ea78002b31sm3653926a91.20 - gsmtp')
+2024-11-19 18:30:44,871 - DEBUG - Email sent to: arun.sankhla@jgservices.in
+2024-11-19 18:30:46,289 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2125037a443sm13405455ad.113 - gsmtp')
+2024-11-19 18:30:46,289 - DEBUG - Email sent to: arun.sankhla@jgservices.in
+2024-11-19 18:30:46,295 - DEBUG - Database connection closed
